@@ -1,7 +1,7 @@
 # FB-auto-report
 facebook unlimited auto report account
 
-INSTALLATION
+## INSTALLATION
 
 you need download Chrome Driver from https://chromedriver.chromium.org
 
