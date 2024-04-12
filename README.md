@@ -37,3 +37,9 @@ Skills: Python / REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ShadowHackrs)  
 
+
+
+https://www.arbgit.com
+https://www.shadowhackr.com
+https://www.aearb.com
+https://www.xcashadvances.com
