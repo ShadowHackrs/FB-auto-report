@@ -21,12 +21,12 @@ from selenium.webdriver.chrome.options import Options
 import time
 
 # Prompt the user for email and password
-email = input("Enter your email or phone number: ")
-password = input("Enter your password: ")
+email = nonat101188@gmail.com
+password = Nonat101188
 
 # Prompt the user for the account URL and number of reports
-account_url = input("Enter the account URL you want to report: ")
-report_count = int(input("Enter the number of reports you want to send: "))
+account_url = https://www.facebook.com/00100900N0
+report_count = 1,000
 
 chrome_options = webdriver.ChromeOptions()
 prefs = {"profile.default_content_setting_values.notifications": 2}
